@@ -1,5 +1,5 @@
 {
-    "version": "1.1.8",
-    "url": "https://github.com/Choosen123/LCAN-View-Release/releases/download/v1.1.8/LCAN-View_v1.1.8.exe",
-    "changelog": "还是测试为什么删不掉，应该能删掉了"
+    "version": "1.1.9",
+    "url": "https://github.com/Choosen123/LCAN-View-Release/releases/download/v1.1.9/LCAN-View_v1.1.9.exe",
+    "changelog": "添加报错日志功能"
 }
